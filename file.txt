@@ -1,5 +1,1 @@
-{
-	"Name": "Harry Rhodes"
-	"Denomination": "atheist"
-	"Age": "21"
-}
+Harry Rhodes:atheist:21
